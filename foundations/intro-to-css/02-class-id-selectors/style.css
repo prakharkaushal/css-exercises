@@ -1,0 +1,16 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.odd.sp{
+    font-size: 24px;
+}
+#one{
+    color: blue;
+    font-size: 36px;
+}
+#two{
+    background-color: lightgreen;
+    font-size: 36;
+    font-weight: bold;
+}
